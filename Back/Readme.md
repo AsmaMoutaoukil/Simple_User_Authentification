@@ -1,4 +1,4 @@
-# Tripitto Project Back-API
+# Authentification Back
 
 This repository manages the back end part of the project
 
